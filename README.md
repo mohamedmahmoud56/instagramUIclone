@@ -2,7 +2,6 @@
 # instagramUI_clone
 Simple instagram clone UI using Flutter.
 =======
-# second_app
 
 A new Flutter project.
 
